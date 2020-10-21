@@ -4,6 +4,7 @@ import "../../style.css";
 
 function Portfolio() {
   return (
+    <div className="background">
     <div>
       <h1>Portfolio Page</h1>
       <div class="wrapper">
@@ -104,6 +105,7 @@ function Portfolio() {
            <a href="https://github.com/benabbott85/B-Abbott-HW-8"><img className="developerprofile" src="https://cdn-images-1.medium.com/max/1600/1*137RurhEOkjDyUGWQJhvAg.png" alt="developerprofile"></img></a> */}
         </div>
       </div>
+    </div>
     </div>
   );
 }

@@ -1,9 +1,11 @@
 import React from "react";
-import Me from "../../assets/Ben Abbott_03 (1).jpg"
+import Me from "../../assets/Ben Abbott_03 (1).jpg";
+// import background from "../../assets/black background.jpg"
 // import NavTabs from "./NavTabs"
 
 function About() {
   return (
+  
     <div>
       <h1>About Me</h1>
       <div class="aboutme">
@@ -45,6 +47,7 @@ function About() {
 
       </div>
     </div>
+    
   );
 }
 

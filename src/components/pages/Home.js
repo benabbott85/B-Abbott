@@ -5,7 +5,7 @@ import {Link} from "react-router-dom"
 
 function Home() {
   return (
-    
+    <div className="background">
     <div>
       <h1 className="myname">Ben Abbott</h1>
       <br></br>
@@ -42,7 +42,7 @@ function Home() {
     
     </div>
 
-
+</div>
 
 
   );

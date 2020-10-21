@@ -5,6 +5,7 @@ import { Link, Route } from "react-router-dom";
 
 function Contact(props) {
   return (
+    <div className="background">
     <div className="contact">
       <h1>Contact Me</h1>
       <p>
@@ -18,6 +19,7 @@ function Contact(props) {
         <br></br>
       </p>
       
+    </div>
     </div>
   );
 }

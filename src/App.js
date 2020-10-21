@@ -6,9 +6,11 @@ import About from "./components/pages/About";
 import Portfolio from "./components/pages/porfolio";
 import Contact from "./components/pages/Contact";
 import Technologies from "./components/pages/Technologies";
+// import background from "./assets/black background.jpg"
 
 function App() {
   return (
+    
     <Router>
       <Switch>
       <div>
@@ -21,6 +23,7 @@ function App() {
       </div>
       </Switch>
     </Router>
+    
   );
 }
 

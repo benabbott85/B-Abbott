@@ -5,6 +5,7 @@ import { Row, Container, Card, Col } from "reactstrap";
 
 function Technologies() {
   return (
+    <div className="background">
     <Container>
       <Row>
   <h1>Below is a list of the different technologies I have used.</h1>
@@ -134,7 +135,7 @@ function Technologies() {
   </Row>
   
   </Container>
-
+  </div>
   );
 }
 

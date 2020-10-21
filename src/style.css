@@ -1,0 +1,236 @@
+body {
+    background: url(https://i.dlpng.com/static/png/6806583_preview.png);
+    background-color: black;
+    color: white
+}
+
+.portfolioimg {
+  height: 300px;
+  width: 300px;
+  margin-left: 225px;
+  /* border-style: solid; */
+    /* border-color: white; */
+    /* border-width: 1px; */
+ float: left;
+padding-top: 10px;
+}
+
+.dayplanner{
+    height: 300px;
+    width: 300px;
+    margin-left: 225px;
+    /* border-style: solid; */
+      /* border-color: white; */
+      /* border-width: 1px; */
+   float: left;
+   margin-top: 50px
+}
+
+.paul {
+    height: 300px;
+    width: 300px;
+    margin-left: 225px;
+    float: left;
+    margin-top: 50px;
+}
+
+.assistant {
+    height: 300px;
+    width: 300px;
+    margin-left: 225px;
+    float: left;
+    margin-top: 50px;
+}
+
+.notetaker{
+    height: 200px;
+    width: 250px;
+    margin-left: 225px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px
+}
+
+.developerprofile {
+    height: 200px;
+    width: 250px;
+    margin-left: 300px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px
+}
+
+.contact{
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    text-align: center;
+    width: 250px;
+    margin-left: 550px;
+    margin-top: 200px;
+    line-height: 1.8;
+    
+}
+
+.aboutme{
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    line-height: 1.8;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+
+.myname {
+    text-align: center;
+    font-size: 100px;
+
+}
+
+.fullstack {
+    text-align: center
+}
+
+.denver {
+    text-align: center;
+}
+
+.linkedin{
+    margin-left:1300px;
+    margin-top: 300px;
+  
+}
+
+.fa-github {
+    margin-left: 1300px;
+}
+
+.header1 {
+    margin-left: 550px;
+    margin-top: 5px;
+}
+
+.para1{
+    margin-left: 550px
+}
+
+.header2 {
+    margin-left: 550px;
+   margin-top: 140px;
+}
+
+.para2 {
+    color: white;
+    margin-left: 225px;
+    margin-top: 20px;
+    width: 40%
+}
+
+.para3 {
+    margin-left: 550px
+}
+
+.para4 {
+    margin-left: 550px;
+}
+
+.header3{
+    margin-left: 550px;
+    margin-top: 200px
+}
+
+.techimg{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.techimgreact{
+    width: 200px;
+    height: 200px;
+    left: 600px;
+}
+
+.me {
+    float: left;
+    padding-right: 25px;
+    width: 300px;
+    height: 300px
+}
+
+.tutor {
+    text-align: center
+}
+
+.ta {
+    text-align: center
+}
+
+.trillogo {
+    margin-left: 575px;
+    width: 300px;
+    height: 200px
+}
+.mongo {
+    width: 200px;
+    height: 200px;
+}
+
+.techimg1{
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+    
+}
+
+.techimg2{
+    width: 200px;
+    height: 200px;
+    
+}
+.techimg3{
+    width: 200px;
+    height: 200px;
+    
+}
+.techimg4{
+    width: 200px;
+    height: 200px;
+    
+}
+.techimg5{
+    width: 200px;
+    height: 200px;
+    
+}
+.techimg6{
+    width: 200px;
+    height: 200px;
+    
+}
+.techimg7{
+    width: 200px;
+    height: 200px;
+    
+}
+.techimg8{
+    width: 200px;
+    height: 200px;
+    
+}
+.techimg9{
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    
+}
+
+.empty{
+    width: 130px;
+    height: 200px;
+    background-color: black
+}

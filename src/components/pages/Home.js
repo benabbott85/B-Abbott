@@ -16,11 +16,7 @@ function Home() {
       <br></br>
       <br></br>
       <div>
-      <h4 className="tutor">Senior Full Stack Web Development Tutor &</h4>
-    <br></br>
-    <h5 className="ta">Teaching Assistant</h5>
-    <br></br>
-   
+      <h4 className="tutor">Senior Full Stack Web Development Tutor & Teaching Assistant</h4>
      <a href="https://www.linkedin.com/in/ben-abbott-51394421/"><i class="fab fa-linkedin fa-4x linkedin" ></i></a>
       <br></br>
       <a href="https://github.com/benabbott85"><i class="fab fa-github fa-4x github"></i></a>

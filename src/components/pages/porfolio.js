@@ -1,7 +1,8 @@
 import React from "react";
 // import NavTabs from "./NavTabs"
 import "../../style.css";
-
+import {Container, Row, Col, Jumbotron, Card, CardImg, CardText} from "reactstrap"
+import easi from "../../assets/logo2.png"
 function Portfolio() {
   return (
     <div className="background">
@@ -9,11 +10,13 @@ function Portfolio() {
       <h1>Portfolio Page</h1>
       <div class="wrapper">
         <div class="wrapper1">
-
+        
           <div class="easicuisi">
+            
           <a href="https://benabbott85.github.io/Project-1/">
-            <img className="portfolioimg" src="https://static.makeuseof.com/wp-content/uploads/2019/07/Best-Meal-Planning-apps-mealime.png" alt="easicuisi"></img>
+            <img className="portfolioimg" src={easi} alt="easicuisi"></img>
           </a>
+          
           <h1 class="header1"> EasiCuisi</h1>
           <p class="para1">- Project designed for user to be able to search for recipes based on protein type, serving size, 
           <br></br>
@@ -28,6 +31,7 @@ function Portfolio() {
           <p class="para4">- Repository Link: https://github.com/benabbott85/Project-1</p>          
          
           </div>
+          
 
           <div class="allocations">
           <a href="https://limitless-refuge-47363.herokuapp.com/">

@@ -105,7 +105,7 @@ padding-top: 10px;
 
 .linkedin{
     margin-left:1300px;
-    margin-top: 300px;
+    margin-top: 200px;
   
 }
 
@@ -239,3 +239,10 @@ padding-top: 10px;
     height: 200px;
     background-color: black
 }
+
+#emailbtn{
+    background-color: blue;
+    color: white
+}
+
+

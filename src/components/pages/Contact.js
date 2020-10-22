@@ -13,12 +13,13 @@ function Contact(props) {
         <br></br>
 
         Email: babbott85@gmail.com
+        <a href="mailto:babbott85@gmail.com" class="btn"><button id="emailbtn">Email Me</button></a>
         <br></br>
         
         Github: benabbott85
         <br></br>
       </p>
-      
+     
     </div>
     </div>
   );

@@ -17,9 +17,12 @@ function Home() {
       <br></br>
       <div>
       <h4 className="tutor">Senior Full Stack Web Development Tutor & Teaching Assistant</h4>
+     
      <a href="https://www.linkedin.com/in/ben-abbott-51394421/"><i class="fab fa-linkedin fa-4x linkedin" ></i></a>
       <br></br>
       <a href="https://github.com/benabbott85"><i class="fab fa-github fa-4x github"></i></a>
+      <a href="mailto:babbott85@gmail.com" class="btn"><button id="emailbtnhome">Email Me</button></a>
+      <br></br>
       </div>
     <br></br>
 <br></br>    

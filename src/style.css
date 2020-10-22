@@ -242,7 +242,17 @@ padding-top: 10px;
 
 #emailbtn{
     background-color: blue;
-    color: white
-}
+    color: white;
+    padding: 5px;
+    width: 120px;
 
+}
+#emailbtnhome{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    width: 120px;
+    margin-left: 1260px;
+    border-color: black
+}
 

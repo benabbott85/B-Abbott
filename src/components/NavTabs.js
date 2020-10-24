@@ -1,7 +1,7 @@
-import React, {useState} from "react";
+import React from "react";
 import { Link, useLocation } from "react-router-dom";
 // import NavTabs from "NavTabs.js"
-import {Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink} from "reactstrap"
+
 
 function NavTabs() {
 //   
@@ -28,6 +28,7 @@ function NavTabs() {
     //     </Collapse>
     //   </Navbar>
     // </div>
+   
     <ul className="nav nav-tabs">
       <li className="nav-item">
         <Link to="/Home" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>

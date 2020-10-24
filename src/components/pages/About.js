@@ -36,7 +36,7 @@ function About() {
           </p>
   
           <p> I first started to think about web development as my future while at my previous job. They run a coding boot camp of their own
-            and the more I started to think about my future, the more it made sense to make a change. I have always had a love of technology
+            and the more I started to think about it, the more it made sense to make a change. I have always had a love of technology
             and how it continues to evolve. I enrolled in the full stack web development certificate program at the University of Denver and 
             that is where my passion for coding truly grew. 
           </p>

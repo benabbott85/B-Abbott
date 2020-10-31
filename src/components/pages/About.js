@@ -1,7 +1,7 @@
 import React from "react";
-import Me from "../../assets/Ben Abbott_03 (1).jpg";
-// import background from "../../assets/black background.jpg"
-// import NavTabs from "./NavTabs"
+import me from "../../assets/Ben Abbott_03 (1).jpg";
+
+
 
 function About() {
   return (
@@ -10,7 +10,7 @@ function About() {
       <h1>About Me</h1>
       <div class="aboutme">
         <div>
-          <img className="me" src={Me} alt="me"></img>
+          <img className="me" src={me} alt="me"></img>
         </div>
         
       <p> I was born in New York City on May 13, 1988, and yes that was Friday the 13th. I am the second of two boys,

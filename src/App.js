@@ -6,23 +6,27 @@ import About from "./components/pages/About";
 import Portfolio from "./components/pages/porfolio";
 import Contact from "./components/pages/Contact";
 import Technologies from "./components/pages/Technologies";
+import BurgerMenu from "./components/animations/BurgerMenu"
 // import background from "./assets/black background.jpg"
 
 function App() {
   return (
     
-    <Router>
-      <Switch>
-      <div>
-        <NavTabs />
-        <Route exact path="/Home" component={Home} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/portfolio" component={Portfolio} />
-        <Route exact path="/contact" component={Contact} />
-        <Route exact path="/Technologies" component={Technologies} />
-      </div>
-      </Switch>
-    </Router>
+    // <Router>
+    //   <Switch>
+    //   <div>
+    //     <NavTabs />
+    //     <Route exact path="/Home" component={Home} />
+    //     <Route exact path="/about" component={About} />
+    //     <Route exact path="/portfolio" component={Portfolio} />
+    //     <Route exact path="/contact" component={Contact} />
+    //     <Route exact path="/Technologies" component={Technologies} />
+    //   </div>
+    //   </Switch>
+    // </Router>
+    <div className="App">
+      <BurgerMenu/>
+    </div>
     
   );
 }

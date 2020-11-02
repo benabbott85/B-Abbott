@@ -256,3 +256,11 @@ padding-top: 10px;
     border-color: black
 }
 
+.home, .about, .technologies{
+   display: flex;
+   height: 90vh;
+   align-items: center;
+   justify-content: center;
+   font-size: 3rem
+
+}

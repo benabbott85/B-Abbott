@@ -24,9 +24,31 @@ function App() {
     //   </div>
     //   </Switch>
     // </Router>
-    <div className="App">
+    <>
+
+    <Router>
       <BurgerMenu/>
-    </div>
+      <Switch>
+        <Route  exact path="/"  component ={Home}/>
+        <Route exact path="/About" component ={About}/>
+        <Route exact path="/contact" component ={Contact}/>
+        <Route exact path="/Technologies" component ={Technologies}/>
+        <Route exact path="/portfolio" component ={Portfolio}/>
+      </Switch>
+      {/* <Router> */}
+    {/* //   <Switch>
+    //   <div>
+    //     <NavTabs />
+    //     <Route exact path="/Home" component={Home} />
+    //     <Route exact path="/about" component={About} />
+    //     <Route exact path="/portfolio" component={Portfolio} />
+    //     <Route exact path="/contact" component={Contact} />
+    //     <Route exact path="/Technologies" component={Technologies} />
+    //   </div>
+    //   </Switch>
+    // </Router> */}
+       </Router> 
+   </>
     
   );
 }

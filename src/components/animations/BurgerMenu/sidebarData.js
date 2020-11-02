@@ -1,6 +1,9 @@
 import React from 'react'
 // import * as FaIcons from "react-icons/fa"
 import * as AiIcons from "react-icons/ai"
+import * as MdIcons  from "react-icons/md";
+import * as GHIcons from "react-icons/go";
+import * as BSIcons from "react-icons/bs"
 // import * as IOIcons from "react-icons/io"
 
 
@@ -14,26 +17,26 @@ export const sidebarData = [
 {
     title: 'About Me',
     path: '/About',
-    icon: <AiIcons.AiFillHome/>,
+    icon: <BSIcons.BsPeopleCircle/>,
     cName: 'nav-text'
 },
 {
     title: 'Contact Me',
     path: '/Contact',
-    icon: <AiIcons.AiFillHome/>,
+    icon: <MdIcons.MdEmail/>,
     cName: 'nav-text'
 },
 {
-    title: 'Technologies',
+    title: 'Tech',
     path: '/Technologies',
-    icon: <AiIcons.AiFillHome/>,
+    icon: <AiIcons.AiFillHtml5/>,
     cName: 'nav-text'
 },
 
 {
     title: 'Portfolio',
     path: '/Portfolio',
-    icon: <AiIcons.AiFillHome/>,
+    icon: <GHIcons.GoProject/>,
     cName: 'nav-text'
 }
 

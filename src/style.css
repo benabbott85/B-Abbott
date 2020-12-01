@@ -208,9 +208,10 @@ padding-top: 10px;
 
 
 .empty{
-    width: 130px;
+    width: 175px;
     height: 200px;
-    background-color: black
+    /* background-color: black */
+    background-image: url(./assets/black\ background.jpg);
 }
 
 #emailbtn{

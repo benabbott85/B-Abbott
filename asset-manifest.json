@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/B-Abbott/static/css/main.ae56e775.chunk.css",
+    "main.js": "/B-Abbott/static/js/main.f8e28d5a.chunk.js",
+    "main.js.map": "/B-Abbott/static/js/main.f8e28d5a.chunk.js.map",
+    "runtime-main.js": "/B-Abbott/static/js/runtime-main.44968485.js",
+    "runtime-main.js.map": "/B-Abbott/static/js/runtime-main.44968485.js.map",
+    "static/js/2.b63b1c38.chunk.js": "/B-Abbott/static/js/2.b63b1c38.chunk.js",
+    "static/js/2.b63b1c38.chunk.js.map": "/B-Abbott/static/js/2.b63b1c38.chunk.js.map",
+    "index.html": "/B-Abbott/index.html",
+    "precache-manifest.d7e94f609e4e80b5ba59dcf5937f6c12.js": "/B-Abbott/precache-manifest.d7e94f609e4e80b5ba59dcf5937f6c12.js",
+    "service-worker.js": "/B-Abbott/service-worker.js",
+    "static/css/main.ae56e775.chunk.css.map": "/B-Abbott/static/css/main.ae56e775.chunk.css.map",
+    "static/js/2.b63b1c38.chunk.js.LICENSE.txt": "/B-Abbott/static/js/2.b63b1c38.chunk.js.LICENSE.txt",
+    "static/media/Ben Abbott_03 (1).jpg": "/B-Abbott/static/media/Ben Abbott_03 (1).61b76cb5.jpg",
+    "static/media/style.css": "/B-Abbott/static/media/black background.f816f7b1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44968485.js",
+    "static/js/2.b63b1c38.chunk.js",
+    "static/css/main.ae56e775.chunk.css",
+    "static/js/main.f8e28d5a.chunk.js"
+  ]
+}

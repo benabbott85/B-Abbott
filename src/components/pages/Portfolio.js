@@ -44,7 +44,7 @@ function Portfolio() {
           <br></br>
           - On landing page, user will be able to target upcoming trip, or future trips being planned
           </p>
-          <p class="para3">- Languages used: Node, Express, Handebars, Sequelize, Materialize</p>
+          <p class="para3">- Languages used: Node, Express, Handlebars, Sequelize, Materialize</p>
           
           <p class="para4">- I was responsible for the back end work on this project. Once the front end was wired up,
           <br></br>

@@ -92,25 +92,29 @@ padding-top: 10px;
 .myname {
     text-align: center;
     font-size: 100px;
+    color: white;
 
 }
 
 .fullstack {
-    text-align: center
+    text-align: center;
+    color: white;
 }
 
 .denver {
     text-align: center;
+    color: white;
 }
 
 .linkedin{
-    margin-left:1300px;
-    margin-top: 200px;
+    margin-left:600px;
+    margin-top: 150px;
   
 }
 
 .fa-github {
-    margin-left: 1300px;
+    margin-left: 100px;
+    margin-top: 150px;
 }
 
 .header1 {
@@ -167,7 +171,8 @@ padding-top: 10px;
 }
 
 .tutor {
-    text-align: center
+    text-align: center;
+    color: white;
 }
 
 .ta {
@@ -239,6 +244,23 @@ padding-top: 10px;
 
 }
 
+#backnav{
+    background-image: url(./assets/black\ background.jpg);
+}
+
+.footname{
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 125px;
+}
+
+.footicons{
+    margin-top: -150px;
+}
+.matnav{
+    padding-left: 15px;
+    font-weight: bolder;
+}
 @media screen and (max-width: 768px){
     .aboutme{
         width: 200px

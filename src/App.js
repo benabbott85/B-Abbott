@@ -3,10 +3,12 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import NavTabs from "./components/NavTabs";
 import Home from "./components/pages/Home";
 import About from "./components/pages/About";
-import Portfolio from "./components/pages/porfolio";
+import Portfolio from "./components/pages/Portfolio";
 import Contact from "./components/pages/Contact";
 import Technologies from "./components/pages/Technologies";
 import BurgerMenu from "./components/animations/BurgerMenu"
+import MaterialNav from "./components/materialnav";
+import Footer from "./components/footer"
 // import background from "./assets/black background.jpg"
 
 function App() {
@@ -27,15 +29,16 @@ function App() {
     <>
 
     <Router>
-      <BurgerMenu/>
-      <Switch>
+      {/* <BurgerMenu/> */}
+      <MaterialNav/>
+      {/* <Switch>
         <Route  exact path="/"  component ={Home}/>
         <Route  exact path="/Home"  component ={Home}/>
         <Route exact path="/About" component ={About}/>
-        <Route exact path="/contact" component ={Contact}/>
+        <Route exact path="/Contact" component ={Contact}/>
         <Route exact path="/Technologies" component ={Technologies}/>
-        <Route exact path="/portfolio" component ={Portfolio}/>
-      </Switch>
+        <Route exact path="/Portfolio" component ={Portfolio}/>
+      </Switch> */}
       {/* <Router> */}
     {/* //   <Switch>
     //   <div>
@@ -48,8 +51,10 @@ function App() {
     //   </div>
     //   </Switch>
     // </Router> */}
+    <Home/>
        </Router> 
-   </>
+       <Footer/>
+          </>
     
   );
 }

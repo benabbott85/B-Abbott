@@ -7,7 +7,7 @@ function Portfolio() {
   return (
     <div className="background">
     <div>
-      <h1>Portfolio Page</h1>
+      <h1 className="portfoliohead">Portfolio</h1>
       <div class="wrapper">
         <div class="wrapper1">
         
@@ -91,7 +91,7 @@ function Portfolio() {
           <br></br>
           create characters, and track attendance for those characters as part of a larger guild.
           </p>
-          <p class="para3">- Languages used: React</p>
+          <p class="para3">- Language used: React</p>
           
           <p class="para4">- I was responsible for the user authentication aspect of this project.  We decided 
           <br></br>

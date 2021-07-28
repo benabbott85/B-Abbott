@@ -1,6 +1,8 @@
 body {
     background-image: url(./assets/black\ background.jpg);
     background-color: black;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
     color: white
 }
 /* .background {
@@ -192,6 +194,7 @@ padding-top: 10px;
 .techimg1{
     width: 200px;
     height: 200px;
+    margin-top:30px; 
     /* margin-right: 10px; */
    
     
@@ -199,6 +202,7 @@ padding-top: 10px;
 .techimg2{
     width: 200px;
     height: 200px;
+    margin-top: 25px;
 }
 
 .techimg6{
@@ -260,6 +264,14 @@ padding-top: 10px;
 .matnav{
     padding-left: 15px;
     font-weight: bolder;
+}
+
+.abouthead{
+    margin-left: 600px;
+}
+
+.portfoliohead{
+    margin-left: 600px;
 }
 @media screen and (max-width: 768px){
     .aboutme{

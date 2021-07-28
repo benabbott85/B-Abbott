@@ -116,6 +116,7 @@ const MyDrawer = withStyles(styles)(
       </List>
     </Drawer>
     <main className={classes.content}>
+        <Route exact path ="/" component={Home}/>
         <Route exact path="/Home" component={Home} />
         <Route path="/About" component={About} />
         <Route path="/Contact" component={Contact} />

@@ -5,6 +5,8 @@ body {
     /* background-size: cover; */
     color: white
 }
+
+
 /* .background {
     background-image: url(https://i.dlpng.com/static/png/6806583_preview.png);
     width: 100%;
@@ -109,7 +111,7 @@ padding-top: 10px;
 }
 
 .linkedin{
-    margin-left:600px;
+    margin-left:100px;
     margin-top: 150px;
   
 }
@@ -254,12 +256,14 @@ padding-top: 10px;
 
 .footname{
     text-align: center;
-    margin-left: 600px;
+    margin-left: 100px;
     margin-top: 125px;
 }
 
 .footicons{
     margin-top: -150px;
+    /* margin-right: 200px; */
+    
 }
 .matnav{
     padding-left: 15px;

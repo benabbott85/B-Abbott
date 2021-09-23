@@ -55,16 +55,7 @@ function App() {
        {/* </Router>  */}
        <Home/>
        
-       <br/>
-       <br/>
-       <br/>
-       <br/>
-       <br/>
-       <br/>
-       <br/>
-       <br/>
-       <br/>
-       <br/>
+      
        <br/>
        <Technologies/>
        <br/>

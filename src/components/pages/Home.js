@@ -2,6 +2,7 @@ import React from "react";
 // import NavTabs from "./NavTabs"
 import {Link} from "react-router-dom"
 // import {CardImg, Container} from "reactstrap"
+import me from "../../assets/Ben Abbott_03 (1).jpg";
 
 function Home() {
   return (
@@ -17,6 +18,7 @@ function Home() {
       <br></br>
       <div>
       <h4 className="tutor">Senior Full Stack Web Development Tutor & Teaching Assistant</h4>
+      <img className="me" src={me} alt="me"></img>
      <div className="icons">
      {/* <a href="https://www.linkedin.com/in/ben-abbott-51394421/"><i class="fab fa-linkedin fa-4x linkedin" ></i></a>
       <br></br>

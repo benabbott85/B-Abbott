@@ -168,10 +168,11 @@ padding-top: 10px;
 }
 
 .me {
-    float: left;
+    /* float: left; */
     padding-right: 25px;
     width: 300px;
-    height: 300px
+    height: 300px;
+    margin-left: 550px;
 }
 
 .tutor {
@@ -256,12 +257,13 @@ padding-top: 10px;
 
 .footname{
     text-align: center;
-    margin-left: 100px;
+    margin-left: 600px;
     margin-top: 125px;
 }
 
 .footicons{
     margin-top: -150px;
+    margin-left: 475px;
     /* margin-right: 200px; */
     
 }

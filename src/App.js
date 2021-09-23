@@ -54,13 +54,24 @@ function App() {
     {/* <Home/> */}
        {/* </Router>  */}
        <Home/>
-       <About/>
-       <Contact/>
+       
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
+       <br/>
        <br/>
        <Technologies/>
        <br/>
        <Portfolio/>
        <br/>
+       {/* <About/> */}
+       <Contact/>
        <Footer/>
           </>
     

@@ -338,3 +338,46 @@ padding-top: 10px;
     margin-right: 1000px;
 } 
 }
+
+@media screen and (max-width: 1024px) {
+.myname{
+    width: 100px;
+}
+.denver{
+    margin-left: -800px;
+}
+.tutor{
+    width: 20vw;
+    
+}
+
+.techhead{
+    width: 20vw;
+}
+
+.card{
+    width: 40vw;
+}
+.para1{
+    width: 5vw;
+}
+
+.para3{
+    width: 5vw;
+}
+.para4{
+    width: 5vw;
+}
+
+.contact{
+    margin-left: 300px;
+}
+
+.footname{
+    margin-left: 300px;
+}
+
+.footicons{
+    margin-left: 160px;
+}
+}

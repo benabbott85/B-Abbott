@@ -8,7 +8,7 @@ function Technologies() {
     <div className="background">
     <Container className='techcontainer'>
       <Row>
-  <h1>Below is a list of the different technologies I have used.</h1>
+  <h1 className='techhead'>Below is a list of the different technologies I have used.</h1>
   </Row>
   <br></br>
   <br></br>
